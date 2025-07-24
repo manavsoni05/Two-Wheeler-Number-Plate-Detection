@@ -80,10 +80,10 @@ pip install ultralytics opencv-python matplotlib torch easyocr
 ## 🔄 Output Example
 
 ### ✅ Detected Image:
-<img src="https://i.imgur.com/pQJb91k.jpg" width="500"/>
+<img src="https://github.com/manavsoni05/Two-Wheeler-Number-Plate-Detection/blob/main/Test-Image.png" width="500"/>
 
 ### 🎞️ Detected Video Frame:
-<img src="https://i.imgur.com/rRCljIj.png" width="500"/>
+<img src="https://github.com/manavsoni05/Two-Wheeler-Number-Plate-Detection/blob/main/Test-Image-02.png" width="500"/>
 
 ---
 
